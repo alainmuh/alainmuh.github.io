@@ -1130,7 +1130,7 @@ section.lazy-placeholder:after {
 .cid-rBvsZT5EkM {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-image: url("../../../assets/images/mbr-1920x110814.jpg");
+  background-image: url("../../../assets/images/whatsapp-image-2019-09-23-at-3.49.14-pm-1439x1919.jpg");
 }
 .cid-rBvsZT5EkM .mbr-figure {
   margin: 0 auto;
@@ -1383,11 +1383,11 @@ section.lazy-placeholder:after {
   top: 0;
   width: 100%;
   height: 100%;
-  background: #554346;
+  background: #149dcc;
   opacity: 0;
   -webkit-transition: 0.2s opacity ease-in-out;
   transition: 0.2s opacity ease-in-out;
-  background: linear-gradient(to left, #554346, #45505b) !important;
+  background: linear-gradient(to left, #149dcc, #45505b) !important;
 }
 .cid-rBvGADj9Bt .mbr-gallery-item > div:hover .mbr-gallery-title::before {
   background: transparent !important;
@@ -1413,11 +1413,11 @@ section.lazy-placeholder:after {
   left: 0;
   z-index: -1;
   position: absolute;
-  background: #554346 !important;
+  background: #149dcc !important;
   opacity: 0.7;
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
-  background: linear-gradient(to left, #554346, #45505b) !important;
+  background: linear-gradient(to left, #149dcc, #45505b) !important;
 }
 .cid-rBvHfo4CWa {
   padding-top: 15px;
