@@ -8,7 +8,7 @@
       "styling": {
         "primaryColor": "#149dcc",
         "secondaryColor": "#ff3366",
-        "successColor": "#F7ED4A",
+        "successColor": "#f7ed4a",
         "infoColor": "#82786E",
         "warningColor": "#879A9F",
         "dangerColor": "#B1A374",
@@ -39,7 +39,16 @@
     "versionPublish": "4.10.15",
     "favicon": "",
     "noImageResize": "",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "cookiesAlert": {
+      "colorText": "#424a4d",
+      "colorBg": "#eaeff1",
+      "colorButton": "#ffffff",
+      "colorLink": "#424a4d",
+      "underlineLink": true,
+      "opacity": "99",
+      "text": "By visiting this site you accept the use of cookies to best serve you."
+    }
   },
   "pages": {
     "index.html": {
