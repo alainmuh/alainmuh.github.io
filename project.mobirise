@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "International Revival Ministries",
-    "currentPage": "page9.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -63,7 +63,7 @@
       "settings": {
         "main": true,
         "title": "Home",
-        "meta_descr": "",
+        "meta_descr": "I.R.M",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -1658,7 +1658,7 @@
     },
     "page1.html": {
       "settings": {
-        "meta_descr": "Web Maker Description",
+        "meta_descr": "I.R.M",
         "title": "APROPOS",
         "order": 1
       },
@@ -2310,7 +2310,7 @@
     },
     "page3.html": {
       "settings": {
-        "meta_descr": "Web Page Generator Description",
+        "meta_descr": "I.R.M",
         "title": "CONTACT",
         "order": 8
       },
@@ -2842,7 +2842,7 @@
     },
     "page4.html": {
       "settings": {
-        "meta_descr": "Web Page Maker Description",
+        "meta_descr": "I.RM",
         "title": "GALLERIES",
         "order": 6
       },
@@ -3099,7 +3099,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/a-h-k0u1j0n5-314x3077.png",
+                "image": "@PROJECT_PATH@/assets/images/a-h-k0u1j0n5-314x3078.png",
                 "thumb": "@PROJECT_PATH@/assets/images/a-h-k0u1j0n5-314x307-314x307.png",
                 "alt": "",
                 "title": "",
@@ -3757,7 +3757,7 @@
     },
     "page5.html": {
       "settings": {
-        "meta_descr": "Web Site Maker Description",
+        "meta_descr": "I.R.M",
         "title": "VIDEOS",
         "order": 7
       },
@@ -4367,7 +4367,7 @@
     },
     "page6.html": {
       "settings": {
-        "meta_descr": "Web Site Builder Description",
+        "meta_descr": "I.R.M",
         "title": "MEMBRE",
         "order": 5
       },
@@ -4819,7 +4819,7 @@
     },
     "page7.html": {
       "settings": {
-        "meta_descr": "Website Builder Description",
+        "meta_descr": "I.R.M",
         "title": "Pasteur Romain&nbsp;",
         "order": 3
       },
@@ -5511,7 +5511,7 @@
     },
     "page8.html": {
       "settings": {
-        "meta_descr": "Web Site Builder Description",
+        "meta_descr": "I.R.M",
         "title": "Branches",
         "order": 2
       },
@@ -6308,7 +6308,7 @@
     },
     "page9.html": {
       "settings": {
-        "meta_descr": "Website Builder Description",
+        "meta_descr": "I.R.M",
         "title": "PRIERE",
         "order": 4
       },
