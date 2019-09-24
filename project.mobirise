@@ -6,22 +6,22 @@
       "name": "mobirise4",
       "title": "Mobirise 4",
       "styling": {
-        "primaryColor": "#149dcc",
-        "secondaryColor": "#ff3366",
-        "successColor": "#F7ED4A",
+        "primaryColor": "#375df3",
+        "secondaryColor": "#070f56",
+        "successColor": "#149dcc",
         "infoColor": "#82786E",
-        "warningColor": "#879A9F",
+        "warningColor": "#21b60b",
         "dangerColor": "#B1A374",
         "mainFont": "Rubik",
-        "display1Font": "Rubik",
+        "display1Font": "Playfair Display",
         "display1Size": 4.25,
-        "display2Font": "Rubik",
+        "display2Font": "Playfair Display",
         "display2Size": 3,
-        "display5Font": "Rubik",
+        "display5Font": "Playfair Display",
         "display5Size": 1.5,
-        "display7Font": "Rubik",
+        "display7Font": "Playfair Display",
         "display7Size": 1,
-        "display4Font": "Rubik",
+        "display4Font": "Playfair Display",
         "display4Size": 1,
         "isRoundedButtons": true,
         "isAnimatedOnScroll": false,
@@ -29,11 +29,19 @@
       },
       "additionalSetColors": [
         "#bbcae2",
-        "#375df3"
+        "#375df3",
+        "#070f56",
+        "#21b60b"
       ]
     },
     "path": "@PROJECT_PATH@",
-    "siteFonts": [],
+    "siteFonts": [
+      {
+        "css": "'Playfair Display', serif",
+        "name": "Playfair Display",
+        "url": "https://fonts.googleapis.com/css?family=Playfair+Display:400,400i,700,700i,900,900i"
+      }
+    ],
     "versionFirst": "4.7.6",
     "uniqCompNum": 69,
     "versionPublish": "4.10.15",
@@ -3091,7 +3099,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/a-h-k0u1j0n5-314x3071.png",
+                "image": "@PROJECT_PATH@/assets/images/a-h-k0u1j0n5-314x3072.png",
                 "thumb": "@PROJECT_PATH@/assets/images/a-h-k0u1j0n5-314x307-314x307.png",
                 "alt": "",
                 "title": "",
