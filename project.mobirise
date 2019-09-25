@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "INTERNATIONAL",
-    "currentPage": "index.html",
+    "currentPage": "page4.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -6590,7 +6590,7 @@
           "_anchor": "header16-1k"
         },
         {
-          "loadsvg": "@PROJECT_PATH@/assets/images/loading4.svg",
+          "loadsvg": "@PROJECT_PATH@/assets/images/loading5.svg",
           "_params": {
             "paddingTop": 0,
             "paddingBottom": 0,
