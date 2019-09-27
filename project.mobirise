@@ -6756,7 +6756,7 @@
           "_params": {}
         },
         {
-          "loadsvg": "@PROJECT_PATH@/assets/images/loading0.svg",
+          "loadsvg": "@PROJECT_PATH@/assets/images/loading1.svg",
           "_params": {
             "paddingTop": 0,
             "paddingBottom": 0,
