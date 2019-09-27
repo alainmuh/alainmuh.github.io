@@ -6590,7 +6590,7 @@
           "_params": {}
         },
         {
-          "loadsvg": "@PROJECT_PATH@/assets/images/loading5.svg",
+          "loadsvg": "@PROJECT_PATH@/assets/images/loading6.svg",
           "_params": {
             "paddingTop": 0,
             "paddingBottom": 0,
